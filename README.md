@@ -13,7 +13,10 @@ A full-stack collaborative platform built with **FastAPI**, **React**, **SQLite*
 - VS Code with Python & ESLint extensions
 
 ---
+### Demo videos
 
+frontend demo video : https://drive.google.com/file/d/1y6Rxe09vwLyErKXRAqzQCG2SuTghU7mD/view?usp=sharing
+Backend demo video : https://drive.google.com/file/d/1xdFAhL3423gDEQoVVTCFCl9MQi9qj3d0/view?usp=sharing
 ### 1. Clone / Open the Project
 
 ```bash
